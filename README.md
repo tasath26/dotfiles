@@ -1,5 +1,6 @@
 # Dotfiles
 Dotfiles for my Arch/Hyprland Config
+
 (still a work in progress)
 
 # Screenshots
