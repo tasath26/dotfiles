@@ -10,4 +10,8 @@ Dotfiles for my Arch/Hyprland Config
 ```
 hyprland-git 
 ```
-
+# Installation
+```
+git clone https://github.com/tasath26/dotfiles ~
+cp -r ~/dotfiles/* ~/.config
+```
