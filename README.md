@@ -12,7 +12,7 @@ git clone https://github.com/tasath26/dotfiles ~
 cp -r ~/dotfiles/* ~/.config
 ```
 
-# Keybindings 
+# Keybindings (so far)
 | Keybinding      | Action                 |
 |-----------------|------------------------|
 | Super + Q       | Terminal               |
