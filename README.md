@@ -6,12 +6,15 @@ Dotfiles for my Arch/Hyprland Config
 ![Example Image](screenshots/screenshot2.png)
 ![Example Image](screenshots/screenshot3.png)
 
-# Requirements 
-```
-hyprland-git 
-```
 # Installation
 ```
 git clone https://github.com/tasath26/dotfiles ~
 cp -r ~/dotfiles/* ~/.config
 ```
+
+# Keybindings 
+|-----------------|------------------------|
+| Super + Q       | Terminal               |
+| Super + F       | Firefox                |
+| Super + R       | App launcher           |
+| Super + N       | Nautilus File manager  | 
