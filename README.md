@@ -13,6 +13,7 @@ cp -r ~/dotfiles/* ~/.config
 ```
 
 # Keybindings 
+| Keybinding      | Action                 |
 |-----------------|------------------------|
 | Super + Q       | Terminal               |
 | Super + F       | Firefox                |
