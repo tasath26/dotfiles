@@ -1,0 +1,21 @@
+
+@define-color base            #191724;
+@define-color surface         #1f1d2e;
+@define-color overlay         #26233a;
+
+@define-color muted           #6e6a86;
+@define-color subtle          #908caa;
+@define-color text            #e0def4;
+
+
+@define-color orange          #d65d0e; 
+@define-color grey            #a89984; 
+@define-color bright-red      #cc241d;
+@define-color yellow          #d79921;
+@define-color teal            #458588;
+@define-color lime            #b8bb26;
+
+
+@define-color highlightLow    #21202e;
+@define-color highlightMed    #403d52;
+@define-color highlightHigh   #524f67;
